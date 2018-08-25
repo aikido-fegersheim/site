@@ -1,14 +1,14 @@
-# Le Club
+# Informations sur le Club
 
 ## Inscription
 
 * Formulaire d'inscription pour la saison 2018-2019
-    * [<i class="fa fa-file-word-o"></i> - fichier Word](files/Fiche d'inscription 2017-2018_0.doc)
-    * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](files/Fiche d'inscription 2017-2018_0.pdf)
+    * [<i class="fa fa-file-word-o"></i> - fichier Word](/files/Fiche d'inscription 2017-2018_0.doc)
+    * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](/files/Fiche d'inscription 2017-2018_0.pdf)
 
 * N'oubliez pas votre certificat médical <i class="fa fa-heartbeat" ></i> à faire étabir chez votre médecin
 
-* [<i class="fa fa-file-pdf-o" ></i> - Guide Du Débutant](files/Aikido.pdf)
+* [<i class="fa fa-file-pdf-o" ></i> - Guide Du Débutant](/files/Aikido.pdf)
 
 
 ## Horaires des cours
@@ -37,10 +37,10 @@
 
 La salle de dojo est au 1er étage du Centre Sportif, en 2002 le dojo était agrandi, et actuellement la surface totale comprends 2 espaces tatamis:
 
-![](images/feg_dojo1.jpg)
+![](/images/feg_dojo1.jpg)
 12 x 12 tatamis, salle principale avec les miroirs
 
-![](images/feg_dojo2.jpg)
+![](/images/feg_dojo2.jpg)
 11 x 7 tatamis
 
 A coté de dojo il y a 3 vestiaires séparés (homme/femme) avec douches. 
@@ -49,18 +49,18 @@ A coté de dojo il y a 3 vestiaires séparés (homme/femme) avec douches.
 
 * 2015
 
-    * [<i class="fa fa-file-pdf-o" ></i> - Moisson de grade en juillet 2015 à Fegersheim](files/AikidoFegersheim2.pdf)
+    * [<i class="fa fa-file-pdf-o" ></i> - Moisson de grade en juillet 2015 à Fegersheim](/files/AikidoFegersheim2.pdf)
 
 * 2006
 
-    * [<i class="fa fa-file-pdf-o" ></i> - L'article sur le club](files/AikidoFegersheim.pdf) apparu dans le journal "Fegersheim - Ohnheim, Informations Municipales" (édition 2006).
+    * [<i class="fa fa-file-pdf-o" ></i> - L'article sur le club](/files/AikidoFegersheim.pdf) apparu dans le journal "Fegersheim - Ohnheim, Informations Municipales" (édition 2006).
 
 
 ## Histoire
 
 L'aventure commence en 1987. Passionné par Aikido, cet art martial nouveau et mystérieux à l'époque en France, Erwin Schaller, épaulé par quelques amis qui partagent le même intérêt, organise les entraînements dans une des salles de Centre Sportif et Culturel de Fegersheim. Tout n'est pas simple au début et la salle est inadaptée, mais l'idée semble avoir du succès. Un cercle des pratiquants se forme et quelques mois plus tard les cours réguliers s'installent. Ainsi est né le club Aikido Fegersheim.
 
-![](images/feg_groupe.JPG)
+![](/images/feg_groupe.JPG)
 
 Christian Hauptmann (un des pionniers du club, aujourd'hui dans les rangs professeurs, 4e dan):
 

@@ -4,7 +4,7 @@ Les cours de la "section adultes" sont assurés par nos professeurs, tous titula
 
 Tous les mardis et jeudis soir une bonne vingtaine des pratiquants est présente sur les tatamis.
 
-![](images/cours_adultes.jpg)
+![](/images/cours_adultes.jpg)
 
 Nous avons le plaisir de voir souvent les aikidoka d'autres clubs, et même d'autres pays (y compris le Japon), en préparation d'un grade ou tout simplement en visite, ils sont toujours accueillis avec bienvenue. Le club invite chaque année des enseignants de haut grade de l'extérieur, de France et du Japon. Les cours de Jeudi ont habituellement une partie dédiée aux armes (Bokken, Jo, Tanto).
 

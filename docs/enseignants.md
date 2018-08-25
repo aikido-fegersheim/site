@@ -1,6 +1,6 @@
 # Les enseignants
 
-![](images/small_DSC_0656.jpg)
+![](/images/small_DSC_0656.jpg)
 
 Erwin Schaller, (Johnny) débute l’aïkido à l’ASOR, avec pour senseï le précurseur alsacien Maître Fernand Simon. 
 

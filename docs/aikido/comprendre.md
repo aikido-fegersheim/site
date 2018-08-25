@@ -1,4 +1,4 @@
-# Comprendre Aikido
+# Qu'est-ce que l'Aikido ?
 
 ## Une discipline de défense
 

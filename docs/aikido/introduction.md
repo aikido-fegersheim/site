@@ -14,7 +14,7 @@ Le terme ```Aikido``` est composé des mots japonais suivants:
 * ```Ki``` - énergie
 * ```Do``` - chemin, voie
 
-[<i class="fa fa-file-pdf-o" ></i> - l'Aikido, Art De La Non-Violence](files/aikido-lemonde2004.pdf) - l'article paru dans "Le monde" le 8 mars 2004.
+[<i class="fa fa-file-pdf-o" ></i> - l'Aikido, Art De La Non-Violence](/files/aikido-lemonde2004.pdf) - l'article paru dans "Le monde" le 8 mars 2004.
 
 ## Un peu d'histoire
 

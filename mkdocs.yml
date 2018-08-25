@@ -15,16 +15,33 @@ theme:
     text: 'Roboto'
     code: 'Roboto Mono'
 
-  logo: 'images/logo4.gif'
+  logo: 'images/logo.svg'
 
   feature:
     tabs: true
 
   include_search_page: false
 
+nav:
+  - Bienvenue: index.md
+  - Info Club: club.md
+  - Cours Enfants: cours_enfants.md
+  - Cours Adultes: cours_adultes.md
+  - Enseignants: enseignants.md
+  - Nous Contacter: contact.md
+  - Liens Internet: liens.md
+  - Aikido:
+    - Introduction: aikido/introduction.md
+    - Comprendre Aikido: aikido/comprendre.md
+    - Mains Nues: aikido/mains_nues.md
+    - Les Armes: aikido/armes.md
+    - Au Quotidien: aikido/quotidien.md
+    - Le Dojo: aikido/dojo.md
+    - Equipement: aikido/equipement.md
+
+
 extra:
   social:
     - type: 'github'
       link: 'https://github.com/aikido-fegersheim'
-
 

@@ -19,7 +19,7 @@
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
-Questions et renseignements par mail dans la page [Nous contacter](contact.md)
+Questions et renseignements par mail dans la page [Nous Contacter](contact.md)
 
 ---
 
