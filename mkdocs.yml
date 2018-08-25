@@ -17,6 +17,8 @@ theme:
 
   logo: 'images/logo.svg'
 
+  favicon: 'images/favicon.png'
+
   feature:
     tabs: true
 
