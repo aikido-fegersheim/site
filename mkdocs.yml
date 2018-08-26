@@ -2,7 +2,6 @@ site_name: Aikido Fegersheim
 
 theme:
   name: null
-
   custom_dir: 'material'
 
   language: 'fr'
@@ -46,4 +45,10 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/aikido-fegersheim'
+
+extra_css:
+  - 'css/extra.css'
+
+markdown_extensions:
+  - admonition
 

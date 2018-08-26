@@ -1,7 +1,7 @@
 # Bienvenue
 
-** Venez essayer gratuitement nos cours !**
-<small>(limité à 2 séances pour des raisons d'assurance)</small>
+!!! important "Venez essayer gratuitement nos cours !"
+    <small>Limité à 2 séances pour des raisons d'assurance</small>
 
 ## Saison 2018-2019
 
