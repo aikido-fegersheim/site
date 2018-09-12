@@ -23,7 +23,7 @@ Questions et renseignements par mail dans la page [Nous Contacter](contact.md)
 
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/videoseries?list=PLC61E69FAE313B345" width="640"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/videoseries?list=PLEWhyEe4wwq-mXSd1m4mDyomChFdc1yEf" width="640"></iframe>
 
 ---
 
