@@ -2,9 +2,9 @@
 
 ## Inscription
 
-* Formulaire d'inscription pour la saison 2018-2019
-    * [<i class="fa fa-file-word-o"></i> - fichier Word](/files/Fiche d'inscription 2018-2019.doc)
-    * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](/files/Fiche d'inscription 2018-2019.pdf)
+* Formulaire d'inscription pour la saison 2019-2020
+    * [<i class="fa fa-file-word-o"></i> - fichier Word](/files/Fiche d'inscription 2019-2020.doc)
+    * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](/files/Fiche d'inscription 2019-2020.pdf)
 
 * N'oubliez pas votre certificat médical <i class="fa fa-heartbeat" ></i> à faire étabir chez votre médecin
 
