@@ -2,8 +2,7 @@ site_name: Aikido Fegersheim
 
 theme:
   name: null
-  custom_dir: 'mkdocs_windmill'
-
+  custom_dir: 'material'
   language: 'fr'
 
   palette:
