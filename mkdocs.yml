@@ -7,7 +7,7 @@ theme:
   language: 'fr'
 
   palette:
-    primary: 'indigo'
+    primary: 'blue grey'
     accent: 'indigo'
 
   font:
