@@ -31,7 +31,7 @@ Questions et renseignements par mail dans la page [Nous Contacter](contact.md)
 
 Paroles du fondateur :
 
->> Je peux tourner le dos à l'adversaire ; quand l'adversaire m'attaque, il se frappe de part sa propre volonté de m'attaquer.
+> Je peux tourner le dos à l'adversaire ; quand l'adversaire m'attaque, il se frappe de part sa propre volonté de m'attaquer.
 
 > Je suis Un avec l'Univers. Je ne suis rien. Quand je suis là, l'adversaire est aspiré.
 
