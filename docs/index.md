@@ -35,6 +35,6 @@ Paroles du fondateur :
 
 > Je suis Un avec l'Univers. Je ne suis rien. Quand je suis là, l'adversaire est aspiré.
 
-> -- Ueshiba Morihei
+> --- Ueshiba Morihei
 
 
