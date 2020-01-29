@@ -1,5 +1,11 @@
 # Bienvenue
 
+
+
+![](/images/LOGO AIKIDO.PNG)
+
+
+
 !!! important "Venez essayer gratuitement nos cours !"
     <small>Offre limitée à 2 séances pour des raisons d'assurance</small>
 
