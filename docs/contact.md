@@ -2,6 +2,7 @@
 
 Vous pouvez nous écrire par mail à l'adresse suivante:
 
-[aikido.fegersheim@free.fr](mailto:aikido.fegersheim@free.fr)
+[pauli.valerie@orange.fr](mailto:pauli.valerie@orange.fr)
 
-<small>Attention: cette une adresse mail dynamique et elle change régulierement, l'adresse valide en cours sera affichée sur cette page</small>
+ou par téléphone : 06 75 73 43 45
+
