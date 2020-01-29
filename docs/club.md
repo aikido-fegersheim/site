@@ -60,7 +60,7 @@ A coté de dojo il y a 3 vestiaires séparés (homme/femme) avec douches.
 
 L'aventure commence en 1987. Passionné par Aikido, cet art martial nouveau et mystérieux à l'époque en France, Erwin Schaller, épaulé par quelques amis qui partagent le même intérêt, organise les entraînements dans une des salles de Centre Sportif et Culturel de Fegersheim. Tout n'est pas simple au début et la salle est inadaptée, mais l'idée semble avoir du succès. Un cercle des pratiquants se forme et quelques mois plus tard les cours réguliers s'installent. Ainsi est né le club Aikido Fegersheim.
 
-![](/images/feg_groupe.JPG)
+![](/images/DSC_752.JPG)
 
 Christian Hauptmann (un des pionniers du club, aujourd'hui dans les rangs professeurs, 5e dan):
 
