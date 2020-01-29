@@ -2,7 +2,7 @@
 
 
 
-![](/images/LOGO AIKIDO.PNG)
+![](/images/LOGO.PNG)
 
 
 
