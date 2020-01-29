@@ -4,7 +4,7 @@
 
 Erwin Schaller, membre d'honneur
 
-
+![](/images/DSC_0648-p.jpg)
 André Morio, enseignant adultes
 
 
