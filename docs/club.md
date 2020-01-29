@@ -62,7 +62,7 @@ L'aventure commence en 1987. Passionné par Aikido, cet art martial nouveau et m
 
 ![](/images/feg_groupe.JPG)
 
-Christian Hauptmann (un des pionniers du club, aujourd'hui dans les rangs professeurs, 4e dan):
+Christian Hauptmann (un des pionniers du club, aujourd'hui dans les rangs professeurs, 5e dan):
 
 > Quand nous avons commencé, la première année, la salle était en parquet, alors avant chaque entraînement il fallait venir chercher les tatamis, les poser, puis à la fin, les déposer et les ramener dans le local, Raymond (gérant de bar au Centre Sportif) était content après nos cours.. <i class="fa fa-smile-o" ></i>
 
