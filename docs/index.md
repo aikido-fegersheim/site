@@ -2,7 +2,7 @@
 
 
 
-![](/images/LOGO.PNG)
+![](/images/LOGO.png)
 
 
 
