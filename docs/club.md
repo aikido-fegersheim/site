@@ -16,10 +16,10 @@
 | 	                 | Mardi         | Jeudi         | Samedi      |
 |--------------------|---------------|---------------|-------------|
 | Enfants            | 19h00 - 20h00 | 19h00 - 20h00 |             |
-| Adultes            | 20h00 - 22h00 | 20h00 - 21h30 |             |
+| Adultes            | 20h00 - 21h30 | 20h00 - 21h30 |             |
 | Préparation grades |               |               | 10h00-12h00 |
 
-<small>Les cours enfants n'ont pas lieu durant les périodes de vacances scolaires. Cependant, les cours adultes sont maintenus, hors période de Noël et de grandes vacances, de 20h à 22h.</small>
+<small>Les cours enfants n'ont pas lieu durant les périodes de vacances scolaires. Cependant, les cours adultes sont maintenus, hors période de Noël et de grandes vacances, de 20h à 21h30.</small>
 
 
 ## Adresse
