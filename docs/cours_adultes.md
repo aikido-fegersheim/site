@@ -1,10 +1,10 @@
 # Cours adultes
 
-Les cours de la "section adultes" sont assurés par nos professeurs, tous titulaires d'un diplôme d'Etat BEES,sous la responsabilité d'Erwin Schaller (5e dan)
+Les cours adultes sont assurés par nos professeurs André Morio (4e Dan) et Nicolas Romero (4e Dan) les mardis et jeudis soirs.
 
-Tous les mardis et jeudis soir une bonne vingtaine des pratiquants est présente sur les tatamis.
 
-![](/images/cours_adultes.jpg)
+
+![](/images/IMG_139.jpeg)
 
 Nous avons le plaisir de voir souvent les aikidoka d'autres clubs, et même d'autres pays (y compris le Japon), en préparation d'un grade ou tout simplement en visite, ils sont toujours accueillis avec bienvenue. Le club invite chaque année des enseignants de haut grade de l'extérieur, de France et du Japon. Les cours de Jeudi ont habituellement une partie dédiée aux armes (Bokken, Jo, Tanto).
 
