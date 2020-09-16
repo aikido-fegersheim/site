@@ -13,15 +13,12 @@
 
 ### Reprise des cours adultes
 
-* <i class="fa fa-calendar"></i> Mardi 10 Septembre 2019 pour les licenciés
+* <i class="fa fa-calendar"></i> à partir du mardi 15/09/20 de 20h à 21h30
 
-### Accueil des débutants
-
-* <i class="fa fa-calendar"></i> Mardi 17 Septembre 2019
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> Mardi 10 Septembre 2019 (licenciés et débutants)
+* <i class="fa fa-calendar"></i> Jeudi 08 octobre 2020 à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
