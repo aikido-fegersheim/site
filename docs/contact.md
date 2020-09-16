@@ -1,8 +1,12 @@
 # Nous Contacter
 
-Vous pouvez nous écrire par mail à l'adresse suivante:
 
-[pauli.valerie@orange.fr](mailto:pauli.valerie@orange.fr)
+Nicolas ROMERO - 21 rue du verger - 67400 ILLKIRCH. 
+tél : 0625242678
 
-ou par téléphone : 06 75 73 43 45
+
+Vous pouvez aussi nous écrire par mail à l'adresse suivante:
+
+[nicolaromero@gmail.com](mailto:nicolaromero@gmail.com)
+
 
