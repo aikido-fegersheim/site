@@ -3,13 +3,13 @@
 ## Inscription
 
 * Formulaire d'inscription pour la saison 2010-2021
-    * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](/files/Fiche d'inscription 2020-2021.pdf)
+    * [<i class="fa fa-file-pdf-o" ></i> - Formulaire d'inscription ](/files/Fiche d'inscription 2020-2021.pdf)
 
 * N'oubliez pas votre certificat médical <i class="fa fa-heartbeat" ></i> à faire étabir chez votre médecin
 
 * En raison des circonstances pariculières liées à l'épidémie du Covid, nous vous demandons de prendre connaissances du protocole sanitaire qui a été mis en place au club
    
-  * [<i class="fa fa-file-pdf-o" ></i> - fichier PDF ](/files/PROTOCOLE SANITAIRE.pdf)
+  * [<i class="fa fa-file-pdf-o" ></i> - Protocole sanitaire ](/files/PROTOCOLE SANITAIRE.pdf)
   
   
 * [<i class="fa fa-file-pdf-o" ></i> - Guide Du Débutant](/files/Aikido.pdf)
