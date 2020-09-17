@@ -9,7 +9,7 @@
 !!! important "Venez essayer gratuitement nos cours !"
     <small>Offre limitée à 2 séances pour des raisons d'assurance</small>
 
-## Saison 2019-2020
+## Saison 2020-2021
 
 ### Reprise des cours adultes
 
