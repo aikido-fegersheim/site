@@ -1,6 +1,6 @@
 # Cours adultes
 
-Les cours adultes sont assurés par nos professeurs André Morio (4e Dan) et Nicolas Romero (4e Dan) les mardis et jeudis soirs.
+Les cours adultes sont assurés les mardis et jeudis soirs.
 
 
 
