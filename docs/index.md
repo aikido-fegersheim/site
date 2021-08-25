@@ -18,7 +18,7 @@
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> Mardi 7 octobre 2021 à 19h  (licenciés et débutants)
+* <i class="fa fa-calendar"></i> Mardi 7 Septembre 2021 à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
