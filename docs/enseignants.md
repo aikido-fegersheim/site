@@ -1,11 +1,9 @@
 # Les enseignants
 
-![](/images/small_DSC_0656.jpg)
 
-Erwin Schaller, membre d'honneur
+Raoul Bender, 5 DAN, enseignant adultes et enfants
+Nicolas Roméro, 4 DAN, enseignant adultes et enfants
+Vito Santoro, 4 DAN, enseignant adultes
+Fabien Huber, 2 DAN, enseignant adultes et enfants
 
-![](/images/DSC_0648-p.jpg)
-André Morio, enseignant adultes
 
-
-Nicolas Roméro, enseignant adultes et enfants
