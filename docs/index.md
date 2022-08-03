@@ -9,16 +9,16 @@
 !!! important "Venez essayer gratuitement nos cours !"
     <small>Offre limitée à 2 séances pour des raisons d'assurance</small>
 
-## Saison 2021-2022
+## Saison 2022-2023
 
 ### Reprise des cours adultes
 
-* <i class="fa fa-calendar"></i> à partir du jeudi 2/09/21 de 20h à 21h30
+* <i class="fa fa-calendar"></i> à partir du mardi 6 Septembre 2022 de 20h à 21h30
 
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> Mardi 7 Septembre 2021 à 19h  (licenciés et débutants)
+* <i class="fa fa-calendar"></i> jeudi 8 Septembre 2022 à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
