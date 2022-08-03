@@ -7,8 +7,8 @@ Vous trouverez les liens ci dessous pour toute nouvelle inscription au club. En 
 N'oubliez pas votre certificat médical <i class="fa fa-heartbeat" ></i> à faire étabir chez votre médecin
 
 
-* [<i class="fa fa-file-pdf-o" ></i> - Formulaire d'inscription ](/files/Fiche d'inscription 2021-2022.pdf)
-* [<i class="fa fa-file-pdf-o" ></i> - Protocole sanitaire ](/files/PROTOCOLE SANITAIRE.pdf)
+* [<i class="fa fa-file-pdf-o" ></i> - Formulaire d'inscription ](/files/Fiche d'inscription 2022-2023.pdf)
+* [<i class="fa fa-file-pdf-o" ></i> - Certificat médical ](/files/CERTIFICAT MEDICAUX.pdf)
 * [<i class="fa fa-file-pdf-o" ></i> - Guide Du Débutant](/files/Aikido.pdf)
 
 
