@@ -1,7 +1,7 @@
 # Nous Contacter
 
 
-Nicolas ROMERO - 21 rue du verger - 67400 ILLKIRCH. 
+Nicolas ROMERO 
 tél : 0625242678
 
 
