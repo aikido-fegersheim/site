@@ -17,6 +17,7 @@
 * <i class="fa fa-calendar"></i> à partir du mardi 5 Septembre 2023 de 20h à 21h30
 
 
+
 ### Reprise des cours enfants
 
 * <i class="fa fa-calendar"></i> mardi 12 Septembre 2023 à 19h  (licenciés et débutants)
