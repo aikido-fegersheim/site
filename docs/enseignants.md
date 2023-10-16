@@ -3,7 +3,7 @@
 
 Raoul Bender, 5 DAN, enseignant adultes et enfants
 
-Grégory De Frutos, 5 DAN, enseignant adultes
+Grégory De Frutos, 6 DAN, enseignant adultes
 
 Nicolas Roméro, 4 DAN, enseignant adultes et enfants
 
