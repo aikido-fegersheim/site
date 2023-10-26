@@ -14,5 +14,3 @@ Olivier Charton, 3 DAN, enseignant adultes
 Fabien Huber, 2 DAN, enseignant enfants
 
 Lionel Metzenthin, 1DAN, enseignat enfants
-
-
