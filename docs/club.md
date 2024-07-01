@@ -7,7 +7,7 @@ Vous trouverez les liens ci dessous pour toute nouvelle inscription au club. En 
 N'oubliez pas votre certificat médical <i class="fa fa-heartbeat" ></i> à faire étabir chez votre médecin
 
 
-* [<i class="fa fa-file-pdf-o" ></i> - Formulaire d'inscription ](/files/Fiche d'inscription 2023-2024.pdf)
+* [<i class="fa fa-file-pdf-o" ></i> - Formulaire d'inscription ](/files/Fiche d'inscription 2024-2025.pdf)
 * [<i class="fa fa-file-pdf-o" ></i> - Certificat médical ](/files/CERTIFICATS MEDICAUX 2023-24.pdf)
 * [<i class="fa fa-file-pdf-o" ></i> - Guide Du Débutant](/files/Aikido.pdf)
 
