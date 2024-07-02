@@ -14,13 +14,13 @@
 
 ### Reprise des cours adultes
 
-* <i class="fa fa-calendar"></i> à partir du mardi xx Septembre 2024 de 20h à 21h30
+* <i class="fa fa-calendar"></i> à partir du mardi 03 Septembre 2024 de 20h à 21h30
 
 
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> mardi xx Septembre 2024 à 19h  (licenciés et débutants)
+* <i class="fa fa-calendar"></i> mardi 10 Septembre 2024 à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
