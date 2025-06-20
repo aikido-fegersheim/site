@@ -14,23 +14,18 @@
 
 ### Reprise des cours adultes
 
-* <i class="fa fa-calendar"></i> à partir du mardi 03 Septembre 2024 de 20h à 21h30
+* <i class="fa fa-calendar"></i> à partir du mardi 09 Septembre 2025 de 20h à 21h30
 
 
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> mardi 10 Septembre 2024 à 19h  (licenciés et débutants)
+* <i class="fa fa-calendar"></i> jeudi 11 Septembre 202( à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
 Questions et renseignements par mail dans la page [Nous Contacter](contact.md)
 
----
-
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/videoseries?list=PLEWhyEe4wwq-mXSd1m4mDyomChFdc1yEf" width="640"></iframe>
-
----
 
 [L'aikido, un Art Martial, un Art de Vivre](aikido/introduction.md)
 
