@@ -12,6 +12,10 @@
 
 ## Saison 2025-2026
 
+### NOUVEAU - Cours Aïki Séniors 
+
+* <i class="fa fa-calendar"></i> à partir du 08 septembre 2025 à 10h. 
+
 ### Reprise des cours adultes
 
 * <i class="fa fa-calendar"></i> à partir du mardi 09 Septembre 2025 de 20h à 21h30
@@ -20,7 +24,7 @@
 
 ### Reprise des cours enfants
 
-* <i class="fa fa-calendar"></i> jeudi 11 Septembre 202( à 19h  (licenciés et débutants)
+* <i class="fa fa-calendar"></i> jeudi 11 Septembre 2025 à 19h  (licenciés et débutants)
 
 Inscription, horaires, l'adresse et le plan d'accès sont dans la page [Le Club](club.md)
 
